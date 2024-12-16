@@ -1,0 +1,234 @@
+[
+    {
+      "id": 1,
+      "title": "The Great Adventure",
+      "description": "A thrilling tale of survival and exploration in the wild.",
+      "price": 19.99,
+      "category": "free",
+      "image": "https://example.com/images/book1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Mystery in the City",
+      "description": "A gripping mystery set in the heart of a bustling city.",
+      "price": "14.99",
+      "category": "free",
+      "image": "https://example.com/images/book2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "The Silent World",
+      "description": "A deep dive into marine life and underwater ecosystems.",
+      "price": 25.00,
+      "category": "Non-fiction",
+      "image": "https://example.com/images/book3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "The Secret Garden",
+      "description": "A classic tale of nature, growth, and the wonders of a hidden garden.",
+      "price": 12.50,
+      "category": "Classic",
+      "image": "https://example.com/images/book4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Lost Horizons",
+      "description": "A journey into the unknown where the past and future collide.",
+      "price": 18.99,
+      "category": "Fantasy",
+      "image": "https://example.com/images/book5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Uncharted Waters",
+      "description": "An exciting maritime journey across uncharted seas.",
+      "price": 22.99,
+      "category": "Adventure",
+      "image": "https://example.com/images/book6.jpg"
+    },
+    {
+      "id": 7,
+      "title": "A Brief History of Time",
+      "description": "Explores the cosmos and the nature of time itself.",
+      "price": 16.99,
+      "category": "free",
+      "image": "https://example.com/images/book7.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Shadows of the Past",
+      "description": "A historical mystery that uncovers the secrets of an ancient civilization.",
+      "price": 24.50,
+      "category": "Historical Fiction",
+      "image": "https://example.com/images/book8.jpg"
+    },
+    {
+      "id": 9,
+      "title": "The Wanderer's Journal",
+      "description": "A travel memoir of adventures across five continents.",
+      "price": 21.99,
+      "category": "free",
+      "image": "https://example.com/images/book9.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Warrior of the Light",
+      "description": "A philosophical novel about the journey of a warrior seeking enlightenment.",
+      "price": 17.50,
+      "category": "free",
+      "image": "https://example.com/images/book10.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Cyber Horizons",
+      "description": "A futuristic tale about artificial intelligence and human connections.",
+      "price": 19.00,
+      "category": "Sci-Fi",
+      "image": "https://example.com/images/book11.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Echoes of Eternity",
+      "description": "A gripping fantasy novel set in an ancient magical kingdom.",
+      "price": 28.00,
+      "category": "Fantasy",
+      "image": "https://example.com/images/book12.jpg"
+    },
+    {
+      "id": 13,
+      "title": "The Haunted House",
+      "description": "A spine-chilling ghost story that will keep you awake at night.",
+      "price": 15.00,
+      "category": "free",
+      "image": "https://example.com/images/book13.jpg"
+    },
+    {
+      "id": 14,
+      "title": "A Walk to Remember",
+      "description": "A touching romance about love and loss.",
+      "price": 10.99,
+      "category": "Romance",
+      "image": "https://example.com/images/book14.jpg"
+    },
+    {
+      "id": 15,
+      "title": "The Lost Tribe",
+      "description": "A historical adventure about a forgotten civilization.",
+      "price": 20.99,
+      "category": "Historical Fiction",
+      "image": "https://example.com/images/book15.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Tech Innovators",
+      "description": "Profiles of the leading minds shaping the tech world today.",
+      "price": 29.50,
+      "category": "Biography",
+      "image": "https://example.com/images/book16.jpg"
+    },
+    {
+      "id": 17,
+      "title": "The Midnight Sky",
+      "description": "A poetic exploration of the stars and the mysteries of the universe.",
+      "price": 13.00,
+      "category": "Poetry",
+      "image": "https://example.com/images/book17.jpg"
+    },
+    {
+      "id": 18,
+      "title": "The Art of War",
+      "description": "A timeless treatise on strategy and leadership.",
+      "price": 8.99,
+      "category": "free",
+      "image": "https://example.com/images/book18.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Into the Wild",
+      "description": "A true story of a young man’s journey into the Alaskan wilderness.",
+      "price": 15.50,
+      "category": "Biography",
+      "image": "https://example.com/images/book19.jpg"
+    },
+    {
+      "id": 20,
+      "title": "The Moonlit Path",
+      "description": "A mystical journey through dreams and reality.",
+      "price": 16.99,
+      "category": "Fantasy",
+      "image": "https://example.com/images/book20.jpg"
+    },
+    {
+      "id": 21,
+      "title": "Quantum Leap",
+      "description": "Exploring the mysteries of quantum physics in simple terms.",
+      "price": 18.00,
+      "category": "free",
+      "image": "https://example.com/images/book21.jpg"
+    },
+    {
+      "id": 22,
+      "title": "Dreamcatcher",
+      "description": "A psychological thriller about dreams and their darker meanings.",
+      "price": 14.99,
+      "category": "Thriller",
+      "image": "https://example.com/images/book22.jpg"
+    },
+    {
+      "id": 23,
+      "title": "Wings of Fire",
+      "description": "An epic tale of a young hero and his journey to save his world.",
+      "price": 26.50,
+      "category": "free",
+      "image": "https://example.com/images/book23.jpg"
+    },
+    {
+      "id": 24,
+      "title": "The Garden of Dreams",
+      "description": "A beautifully written novel about love, loss, and the passage of time.",
+      "price": 12.00,
+      "category": "Romance",
+      "image": "https://example.com/images/book24.jpg"
+    },
+    {
+      "id": 25,
+      "title": "The Time Traveler",
+      "description": "A mind-bending journey through time and space.",
+      "price": 17.99,
+      "category": "free",
+      "image": "https://example.com/images/book25.jpg"
+    },
+    {
+      "id": 26,
+      "title": "Secrets of the Deep",
+      "description": "A thrilling underwater adventure filled with danger and mystery.",
+      "price": 21.00,
+      "category": "Adventure",
+      "image": "https://example.com/images/book26.jpg"
+    },
+    {
+      "id": 27,
+      "title": "The Invisible Thread",
+      "description": "A touching memoir about the connections that bind us together.",
+      "price": 16.00,
+      "category": "free",
+      "image": "https://example.com/images/book27.jpg"
+    },
+    {
+      "id": 28,
+      "title": "The Fire Within",
+      "description": "A novel about passion, ambition, and overcoming obstacles.",
+      "price": 22.99,
+      "category": "Fiction",
+      "image": "https://example.com/images/book28.jpg"
+    },
+    {
+      "id": 29,
+      "title": "The Lost City",
+      "description": "A thrilling adventure uncovering the secrets of a forgotten city.",
+      "price": 25.50,
+      "category": "Historical Fiction",
+      "image": "https://example.com/images/book29.jpg"
+    }
+]
