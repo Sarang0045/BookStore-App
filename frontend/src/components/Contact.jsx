@@ -1,5 +1,6 @@
 import React from 'react'
 import Navbar from './Navbar'
+import Footer from './Footer'
 import { Link } from 'react-router-dom'
 
 function Contact() {
@@ -7,8 +8,8 @@ function Contact() {
         <>
         <Navbar/>
         <br /><br /><br /><br />
-            <div className='flex h-screen justify-center '>
-                <div className="w-[320px]">
+            <div className='flex justify-center h-[480px] '>
+                <div className="w-[320px] ">
                     <div className="">
                         <form method="">
 
@@ -51,6 +52,7 @@ function Contact() {
                     </div>
                 </div>
             </div>
+            <Footer/>
         </>
     )
 }

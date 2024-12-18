@@ -1,0 +1,258 @@
+[
+    {
+        "title": "The Silent Waters",
+        "author": "Greg Iles",
+        "image": "https://images.thegreatestbooks.org/sjgwsul1as680aj6mt68izewif4x",
+        "category": "paid",
+        "description": "A suspenseful psychological thriller about love, loss, and secrets.",
+        "price": 12.99
+    },
+    {
+        "title": "Ocean's Breath",
+        "author": "Sarah Parker",
+        "image": "https://images.thegreatestbooks.org/7p508hup295xehtsp3rh41g9rxus",
+        "category": "paid",
+        "description": "A romantic tale set against the backdrop of the beautiful ocean shore.",
+        "price": 0
+    },
+    {
+        "title": "Under the Stars",
+        "author": "Michael Johnston",
+        "image": "https://images.thegreatestbooks.org/frxjk2ln3mmo4nio8u9zvk9te2z1",
+        "category": "paid",
+        "description": "A coming-of-age novel about young love and self-discovery.",
+        "price": 15.99
+    },
+    {
+        "title": "The Hidden Path",
+        "author": "Emily Brown",
+        "image": "https://images.thegreatestbooks.org/naijafe0tknjfljf3i1pra1mfvr5",
+        "category": "paid",
+        "description": "A mysterious journey where the could change everything.",
+        "price": 0
+    },
+    {
+        "title": "Whispers in the Dark",
+        "author": "David Fisher",
+        "image": "https://images.thegreatestbooks.org/2lg73ocsv9m277nyi4bl4ggr5au9",
+        "category": "paid",
+        "description": "A chilling story of suspense and intrigue of your seat.",
+        "price": 9.99
+    },
+    {
+        "title": "Dancing Shadows",
+        "author": "Anna Lee",
+        "image": "https://images.thegreatestbooks.org/zskkh6n9suzyufe95zp6wkyd4bhc",
+        "category": "paid",
+        "description": "A heartfelt  struggles and finding hope in the darkest times.",
+        "price": 0
+    },
+    {
+        "title": "The Forgotten Village",
+        "author": "John Harris",
+        "image": "https://images.thegreatestbooks.org/g6ad61qycr85wv0xd9zvwedc0v7i",
+        "category": "paid",
+        "description": "A historical mystery that delves into the lost history of a small village.",
+        "price": 13.49
+    },
+    {
+        "title": "Lover's Serenade",
+        "author": "Jessica Adams",
+        "image": "https://images.thegreatestbooks.org/q6772fd7fdkcdvg3ed70nupy0r7z",
+        "category": "free",
+        "description": "A romantic drama that follows the between two unlikely people.",
+        "price": 0
+    },
+    {
+        "title": "The Secrets We Keep",
+        "author": "Christopher Nolan",
+        "image": "https://images.thegreatestbooks.org/qcjc5ow73ifto3m3h4zx2yef9ty4",
+        "category": "paid",
+        "description": "A gripping drama about family secrets and the lies we tell ourselves.",
+        "price": 11.99
+    },
+    {
+        "title": "Beyond the Horizon",
+        "author": "Karen White",
+        "image": "https://images.thegreatestbooks.org/6o2iawyerjzuwiwhe0j39o1sw90m",
+        "category": "paid",
+        "description": "An inspiring journey of self-discovery  what they know.",
+        "price": 0
+    },
+    {
+        "title": "The Lost World",
+        "author": "Arthur Smith",
+        "image": "https://images.thegreatestbooks.org/nz51w5ff6g8hyo913f70lvm1u9tm",
+        "category": "paid",
+        "description": "An adventure novel about a group of explorers finding an undiscovered land.",
+        "price": 14.99
+    },
+    {
+        "title": "Eclipsed by Love",
+        "author": "Isabella Clark",
+        "image": "https://images.thegreatestbooks.org/nz51w5ff6g8hyo913f70lvm1u9tm",
+        "category": "paid",
+        "description": "A touching love story set against the backdrop of a solar eclipse.",
+        "price": 0
+    },
+    {
+        "title": "The Time Traveler's Diary",
+        "author": "George Lewis",
+        "image": "https://images.thegreatestbooks.org/c4zbvby283dzn3ufvpu7hnh3i15m",
+        "category": "paid",
+        "description": "A science  that  time traveler's journey to fix the past.",
+        "price": 16.49
+    },
+    {
+        "title": "Reckless Fate",
+        "author": "Tiffany Moore",
+        "image": "https://images.thegreatestbooks.org/7c2iucbwfk8op4at81czhlfklajc",
+        "category": "paid",
+        "description": "A thrilling romance where fate  through obstacles and risks.",
+        "price": 0
+    },
+    {
+        "title": "Shadows of the Past",
+        "author": "Rachel Adams",
+        "image": "https://images.thegreatestbooks.org/24wtdlcfgr3neehj6ev3k4de5ley",
+        "category": "paid",
+        "description": "A psychological thriller that  the dark secrets of a family.",
+        "price": 18.99
+    },
+    {
+        "title": "A Walk Through Time",
+        "author": "Benjamin Parker",
+        "image": "https://images.thegreatestbooks.org/a10wtqexxg0ue86e5natr3m2bk4r",
+        "category": "paid",
+        "description": "A historical fiction novel that the story of timeless love.",
+        "price": 0
+    },
+    {
+        "title": "The Golden Key",
+        "author": "Linda Scott",
+        "image": "https://images.thegreatestbooks.org/nn5pc1hvzswlyoy7667emyxzrn0n",
+        "category": "paid",
+        "description": "A fantasy tale about a young girl who discovers magical powers.",
+        "price": 10.99
+    },
+    {
+        "title": "Echoes of the Heart",
+        "author": "Claire Miller",
+        "image": "https://images.thegreatestbooks.org/wsy87utsgxfjo239l8vofst9yenk",
+        "category": "free",
+        "description": "A tender love story that explores the  human connection.",
+        "price": 0
+    },
+    {
+        "title": "The Last Guardian",
+        "author": "Steven Harris",
+        "image": "https://images.thegreatestbooks.org/g9cpq9eng11ahx91z1081i8a2uta",
+        "category": "paid",
+        "description": "A fantasy epic about a lone guardian who must protect an ancient kingdom.",
+        "price": 12.50
+    },
+    {
+        "title": "Through the Mist",
+        "author": "Laura Wilson",
+        "image": "https://images.thegreatestbooks.org/j4y0319dtasvz5r3opd6k6nla4nn",
+        "category": "paid",
+        "description": "A mystery novel set in a fog-covered town filled with secrets.",
+        "price": 0
+    },
+    {
+        "title": "The Dragon's Shadow",
+        "author": "Michael James",
+        "image": "https://images.thegreatestbooks.org/w02p4sc3t7ub8t4cxjrccai6ikba",
+        "category": "paid",
+        "description": "A high fantasy adventure  battle for control of the world.",
+        "price": 19.99
+    },
+    {
+        "title": "Beneath the Surface",
+        "author": "Sarah Davis",
+        "image": "https://images.thegreatestbooks.org/lptzahvxxp15i1syy75b1bkd9pbc",
+        "category": "paid",
+        "description": "A psychological drama that takes a deep dive into human relationships.",
+        "price": 0
+    },
+    {
+        "title": "The Queen's Choice",
+        "author": "Jessica White",
+        "image": "https://images.thegreatestbooks.org/ufyim7cfg22l6hwlc7lb241616nm",
+        "category": "paid",
+        "description": "A royal drama about a queen who must make impossible  kingdom.",
+        "price": 21.99
+    },
+    {
+        "title": "Whispers of the Wind",
+        "author": "Daniel Taylor",
+        "image": "https://images.thegreatestbooks.org/csjeqkh32zqwl7yc7sil5axmoio8",
+        "category": "free",
+        "description": "A touching tale of love and loss set in the windswept countryside.",
+        "price": 0
+    },
+    {
+        "title": "The Fallen Empire",
+        "author": "Kevin Smith",
+        "image": "https://images.thegreatestbooks.org/zn1ido1m2k5cyeyncvjylwgbjjsl",
+        "category": "paid",
+        "description": "A historical fiction novel about the rise and fall of an ancient empire.",
+        "price": 9.99
+    },
+    {
+        "title": "Moonlit Dreams",
+        "author": "Ava Matthews",
+        "image": "https://images.thegreatestbooks.org/v3hm00c8bv9z13qyh92eaz8hkeys",
+        "category": "paid",
+        "description": "A romantic fantasy about dreams and destinies that intertwine moonlight.",
+        "price": 0
+    },
+    {
+        "title": "The Emperor's Secret",
+        "author": "Richard Clark",
+        "image": "https://images.thegreatestbooks.org/m6lw1g3vw8bgwks4iuhphoa7da7v",
+        "category": "paid",
+        "description": "A political thriller about a ruler whose deepest secrets  empire.",
+        "price": 17.99
+    },
+    {
+        "title": "A Heart's Promise",
+        "author": "Olivia Turner",
+        "image": "https://images.thegreatestbooks.org/1soc9ysnu7yotgpf94ak45gzdawj",
+        "category": "free",
+        "description": "A moving love story where never give up on each other.",
+        "price": 0
+    },
+    {
+        "title": "The King's Quest",
+        "author": "James Anderson",
+        "image": "https://images.thegreatestbooks.org/1soc9ysnu7yotgpf94ak45gzdawj",
+        "category": "paid",
+        "description": "An epic fantasy adventure where a  on a to find his destiny.",
+        "price": 20.00
+    },
+    {
+        "title": "The Enchanted Forest",
+        "author": "Emily Johnson",
+        "image": "https://images.thegreatestbooks.org/vjrggi7ozndm782taq4yfe894b87",
+        "category": "free",
+        "description": "A magical story about a group of friends who discover of secrets.",
+        "price": 0
+    },
+    {
+        "title": "The Final Hour",
+        "author": "Mark Roberts",
+        "image": "https://images.thegreatestbooks.org/vjrggi7ozndm782taq4yfe894b87",
+        "category": "paid",
+        "description": "A thriller set in the final hours before an apocalypse .",
+        "price": 15.49
+    },
+    {
+        "title": "The Silver Star",
+        "author": "Barbara Lee",
+        "image": "https://images.thegreatestbooks.org/o9xsx0mwe6r2k7suddtk50qgm0jy",
+        "category": "free",
+        "description": "A historical romance about a young woman who finds herself ’s legacy.",
+        "price": 0
+    }
+]

@@ -3,7 +3,7 @@ import banner from "../../public/banner.jpg";
 function Banner() {
     return (
         <>
-            <div className=" max-w-screen-2xl container mx-auto md:px-20 px-4 flex flex-col md:flex-row my-10 ">
+            <div className=" max-w-screen-2xl container mx-auto md:px-20 px-4 flex flex-col md:flex-row my-12">
                 <div className="block md:hidden my-8">
                     <label className="input input-bordered flex items-center gap-2">
                         <input type="text" className="grow" placeholder="Search" />
